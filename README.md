@@ -16,6 +16,10 @@ Este script en Python permite sumar dos números, ya sean enteros (`int`) o flot
 ```bash
 python sumador.py
 ```
+## Desarrollador
+| Apellidos y Nombres |
+|---------------------|
+| Guerra Lozano KeeN  |
 
 El script solicitará que ingreses dos números por teclado.
 
